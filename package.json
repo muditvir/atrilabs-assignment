@@ -1,0 +1,12 @@
+{
+  "name": "mudcli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shell.js",
+  "scripts": {
+    "start": "node shell.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
